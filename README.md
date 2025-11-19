@@ -6,7 +6,6 @@ used to create the labels/annotations.
 # Repository Contents
 
 - `notebook.ipynb` – Jupyter Notebook containing the full preprocessing workflow.
-- `Image_data/` – Folder where processed image cutouts are stored.
 - `README.md` – This file.
 
 # Workflow Summary
