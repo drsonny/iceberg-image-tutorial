@@ -7,6 +7,7 @@ used to create the labels/annotations.
 
 - `notebook.ipynb` – Jupyter Notebook containing the full preprocessing workflow.
 - `README.md` – This file.
+- `filenames.csv` – CSV file required to run the code, (image files can be changed depending on data acquired.
 
 # Workflow Summary
 
