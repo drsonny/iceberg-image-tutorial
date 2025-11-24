@@ -57,6 +57,10 @@ Adjust global variables such as number_of_images_to_examine_per_row and landmask
 
 Run the notebook cells in order to generate the image cutouts and CSV files.
 
+# Weights
+
+Trained weights can be found here https://drive.google.com/file/d/1YC8q1wM6Bfb9ejwv7LsBt9_UbCllqD-I/view?usp=drive_link
+
 # Citation
 
 If you use this code or dataset for research, please cite:
